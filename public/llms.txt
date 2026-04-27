@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+BARZEL מציגה את טבעת ההגנה העצמית הטקטית הפרמיום של ישראל. פלדת אל-חלד 100%, עיצוב יוקרתי שמוכן לכל איום. גלה את הטבעת שמשנה כללים.
+
+### תכונות ואומנות
+https://example.com/features-craftsmanship
+גלה את הטכנולוגיה והאומנות מאחורי טבעת BARZEL: פלדת אל-חלד איכותית, גאומטריה טקטית מדויקת ועיצוב שמשלב יופי עם כוח אמיתי. כי הפרטים הם הכל.
+
+### המשימה שלנו
+https://example.com/our-mission
+המשימה של BARZEL היא להחזיר לכל אדם את תחושת השליטה והאחריות האישית. תכשיטי הגנה עצמית לגברים שנבנו מתוך הרוח הישראלית של חוסן, גאווה ומנהיגות.
+
+### צור קשר
+https://example.com/contact
+צור קשר עם צוות BARZEL ותקבל מענה מקצועי על טבעת ההגנה הטקטית, הזמנות ושיתופי פעולה. כי בחירה נכונה מתחילה בשיחה הנכונה — אנחנו כאן בשבילך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - BARZEL
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - BARZEL
+
+### Category
+https://example.com/category/:slug
+מוצרים - BARZEL
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
